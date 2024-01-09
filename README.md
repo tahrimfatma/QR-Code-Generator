@@ -1,1 +1,1 @@
-# QR-Code-Generator
+Creating a QR code generator using HTML, CSS, and JavaScript involves a combination of front-end technologies to design the user interface and handle the generation of QR codes and you can enhance the functionality and design based on your specific requirements. Additionally, ensure that you have a reliable internet connection to fetch any external libraries or resources if needed.
